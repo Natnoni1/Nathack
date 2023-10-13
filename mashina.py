@@ -1,0 +1,1 @@
+bot = "https://t.me/BotAvinfo_bot"
