@@ -12,14 +12,3 @@
 
 4. Получение баз данных
 
-#Установка:
-
-pkg install python3
-
-pkg install git -y
-
-git clone https://github.com/Natnoni1/Nathack.git
-
-cd Natnoni1
-
-python3 nathack.py
